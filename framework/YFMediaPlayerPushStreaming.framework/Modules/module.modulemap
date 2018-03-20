@@ -1,6 +1,0 @@
-framework module YFMediaPlayerPushStreaming {
-  umbrella header "YFMediaPlayerPushStreaming.h"
-
-  export *
-  module * { export * }
-}
